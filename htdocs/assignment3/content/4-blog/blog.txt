@@ -1,0 +1,52 @@
+Title: Blog
+
+----
+
+blogTitle:
+## Beauty of Things
+----
+
+Time: August 20, 2016. 10:30 AM
+
+----
+
+Text: 
+
+ <strong>You can create beautiful things </strong> - but you have to see them in your mind first. Just let your mind wander and enjoy. This should make you happy. It's life. It's interesting. It's fun. You can't have light without dark. You can't know happiness unless you've known sorrow. Just use the old one inch brush. You can spend all day playing with mountains.
+
+
+We spend so much of our life looking - but never seeing. This present moment is perfect simply due to the fact you're experiencing it. Get tough with it, get strong. You got your heavy coat out yet? It's getting colder. Now it's beginning to make a little sense.
+
+
+----
+Quote: "We don't make mistakes, just happy little accidents." — Bob Ross
+
+----
+ulTitle: 
+### Paints used
+
+----
+
+Unordered: 
+
+- cadium yellow
+- dark sienna
+- midnight black
+- alizarin crimson
+
+----
+
+olTitle: 
+
+### Credit
+
+----
+
+Ordered: 
+
+1. (link: http://www.bobrosslipsum.com/ text:Bob Ross Lispum target: _blank)
+2. (link: http://www.oilpaintingfactory.com/english/oil-painting-148347.htm text: Bob Ross Painting target: _blank)
+
+
+
+
